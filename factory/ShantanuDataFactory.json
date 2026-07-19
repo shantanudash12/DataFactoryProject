@@ -1,0 +1,15 @@
+{
+	"name": "ShantanuDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5eb069a8-38cb-4183-90b3-f5731065687f",
+		"tenantId": "e2553f95-637c-4722-a255-113fea6c8d47"
+	}
+}

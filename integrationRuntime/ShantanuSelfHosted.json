@@ -1,0 +1,6 @@
+{
+	"name": "ShantanuSelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
