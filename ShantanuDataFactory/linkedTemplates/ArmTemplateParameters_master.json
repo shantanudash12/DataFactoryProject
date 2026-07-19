@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ShantanuDataFactory"
+		},
+		"ls_azuresql_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_onprem_file_password": {
+			"value": ""
+		},
+		"ls_azuresql_properties_typeProperties_server": {
+			"value": "adfprojectshantanu.database.windows.net"
+		},
+		"ls_azuresql_properties_typeProperties_database": {
+			"value": "adfprojectdb"
+		},
+		"ls_azuresql_properties_typeProperties_userName": {
+			"value": "adminadmin"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://adfshantanustorage.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"ls_onprem_file_properties_typeProperties_host": {
+			"value": "C:\\Data Engineering Projects\\ADF- On Prem simulation"
+		},
+		"ls_onprem_file_properties_typeProperties_userId": {
+			"value": "shantanudash1211@outlook.com"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
