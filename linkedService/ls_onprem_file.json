@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\Data Engineering Projects\\ADF- On Prem simulation",
-			"userId": "shantanudash1211@outlook.com",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4YzViYTI4NC01YzRmLTRiZjMtOTBiNC1jMDI4OTc0Y2EzODYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "mail_id",
+			"encryptedCredential": "encstring"
 		},
 		"connectVia": {
 			"referenceName": "ShantanuSelfHosted",
